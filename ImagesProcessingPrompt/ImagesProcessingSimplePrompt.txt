@@ -1,0 +1,3 @@
+It is necessary to analyze the image, remove the text from the image, and translate the text in the image to make the result readable.
+
+also, if there are any additional smaller images in the image, briefly describe the image and what is real in this image and what is the relationship of the additional image with the text contained in the image
